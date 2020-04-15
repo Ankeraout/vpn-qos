@@ -1,0 +1,6 @@
+bin
+obj
+.vscode
+*.o
+*.sh
+log.txt
